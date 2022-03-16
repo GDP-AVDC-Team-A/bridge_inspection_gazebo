@@ -1,0 +1,4 @@
+vxy_max:     0.25
+vz_max:      0.15
+precision:   0.5
+path_facing: false
